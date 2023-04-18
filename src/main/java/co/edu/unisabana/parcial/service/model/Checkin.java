@@ -10,5 +10,6 @@ public class Checkin {
   private final String driver;
 
   private final int dayOfMonth;
+
   private int id;
 }
